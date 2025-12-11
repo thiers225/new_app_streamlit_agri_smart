@@ -1,0 +1,11 @@
+streamlit>=1.18
+tensorflow==2.19.0
+pillow>=9.0
+numpy>=1.24
+pandas>=2.1
+scikit-learn>=1.2
+matplotlib>=3.5
+seaborn>=0.12
+joblib>=1.2
+gdown>=4.7   # optionnel si tu veux télécharger modèles depuis Google Drive
+boto3>=1.26  # optionnel si tu utilises S3
